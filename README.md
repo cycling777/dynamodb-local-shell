@@ -10,7 +10,7 @@ docker-compose up -d
 ```
 ## On browser
 ```
-localhost:8000
+localhost:8000/shell
 ```
 
 __Enjoy your coding life!__
