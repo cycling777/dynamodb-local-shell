@@ -20,7 +20,7 @@ localhost:8000/shell
 ```
 
 # Stop Runnning
-## on your local machine
+### on your local machine
 ```
 docker-compose down
 ```
